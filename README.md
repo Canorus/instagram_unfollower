@@ -1,6 +1,6 @@
 # small updates
 
-This is a working code as of 11. Feb. 2021, tested with geckodriver 0.28.0 and Firefox 84.0.2, headless device running Ubuntu 18.04. This may or may not work in the future and you'll need to change some parts accordingly. Also __I am not responsible for any consequence of using code from this repository.**
+This is a working code as of 11. Feb. 2021, tested with geckodriver 0.28.0 and Firefox 84.0.2, headless device running Ubuntu 18.04. This may or may not work in the future and you'll need to change some parts accordingly. Also **I am not responsible for any consequence of using code from this repository.**
 
 # Instagram Unfollower
 A Python script designed to unfollow users who you follow but they don't follow you back. Works with Selenium, without using Instagram API.
